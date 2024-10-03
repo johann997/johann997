@@ -1,4 +1,4 @@
-##  How's it going, my name's Johann. 
+##  How's it going, my names Johann. 
 
 I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my University years in **Vancouver, Canada** 🇨🇦 pursuing Quantum Transport Physics at the graduate level. 
 Currently I am in **Berlin, Germany** 🇩🇪 working on Data Science / Machine Learning projects. 
