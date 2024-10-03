@@ -5,7 +5,7 @@ I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my Universit
 </br>
 
 ### PRESENT
-Currently I am in **Berlin, Germany** 🇩🇪 and working on Data Science / Machine Learning projects. 
+Currently I am in **Berlin, Germany** 🇩🇪, working on Data Science / Machine Learning projects and enjoying the centuries old history here. 
 
 ### NOW
 I am curious about making sense of the world around us. From modelling optimal running routes in Vancouver, to web-scraping nutritional websites for cost-effective healthy foods and using Facebook marketplace data to determine competitive pricing, I love telling stories through data-driven decisions. :)
