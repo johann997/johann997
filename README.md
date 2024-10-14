@@ -22,8 +22,9 @@ I am curious about making sense of the world around us. From modelling optimal r
 
 
 #### [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
-</br>
-[Link to Certificate](https://coursera.org/share/d5da6568a3f49f33759acb9225d6ac49) </br>
+A 6 month (@10 hours/week) Data Science professional certificate completed on 14th October 2024. 
+
+[Link to IBM Data Science Certificate](https://coursera.org/share/d5da6568a3f49f33759acb9225d6ac49) </br>
 
 Individual course certificates. </br>
 [1/12] : [What is Data Science](https://coursera.org/share/1339e4a7cae37ed25346e7dc7a298166) </br>
@@ -39,3 +40,6 @@ Individual course certificates. </br>
 [10/12] : [Generative AI: Elevate Your Data Science Career](https://coursera.org/share/ef0d821154321c11a779aab6cf21fd2d) </br>
 [11/12] : [Applied Data Science Capstone](https://coursera.org/share/439b8c73705bb63abf028376c5cf907b) </br>
 [12/12] : [Data Scientist Career Guide](https://coursera.org/share/f7282c57a373b0b79ed14acf32c48bf4) </br>
+
+
+---
