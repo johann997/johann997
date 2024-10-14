@@ -21,7 +21,11 @@ I am curious about making sense of the world around us. From modelling optimal r
 ### Courses
 
 
-#### IBM Data Science
+#### [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
+</br>
+[Link to Certificate](https://coursera.org/share/d5da6568a3f49f33759acb9225d6ac49) </br>
+
+Individual course certificates. </br>
 [1/12] : [What is Data Science](https://coursera.org/share/1339e4a7cae37ed25346e7dc7a298166) </br>
 [2/12] : [Data Science Methodology](https://coursera.org/share/d3f374fd8dd485fad64fa4d8419bd347) </br>
 [3/12] : [Tools for Data Science](https://coursera.org/share/18e664486c707a454bc91218ab2c81ef) </br>
