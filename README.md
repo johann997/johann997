@@ -18,7 +18,7 @@ I am curious about making sense of the world around us. From modelling optimal r
 
 
 
-### Courses
+### COURSES
 
 
 #### [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
