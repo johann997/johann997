@@ -37,7 +37,7 @@ I am curious about making sense of the world around us. From modelling optimal r
 ### To be made public...
 - Top 100 Healthy Foods and their price to 'goodness' ratio.
 - Analysis of gender distribution in a global venture capital firm.
-- App to determine a running route to maximise number of water fountain.
+- App to determine a running route to maximise number of water fountains.
 - Facebook marketplace web scrape and analysis to determine a product's fair price.
 
 ---
