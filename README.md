@@ -24,6 +24,22 @@ I am curious about making sense of the world around us. From modelling optimal r
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,sklearn,grafana,docker,anaconda,vscode,postgres,wordpress)](https://skillicons.dev)
 
 
+## PROJECTS
+- [UBC Employee Salary Distribution](https://github.com/johann997/UBC-Employee-Salary)
+- [Berlin Crime by Neighbourhood](https://github.com/johann997/Berlin_Mauerweg)
+- [British Columbia Liquor Store Web Scrape](https://github.com/johann997/BCL_WebScrape)
+- [Master's Thesis](https://github.com/johann997/QDEV_masters_thesis)
+- [Quantum Transport Dash app](https://github.com/johann997/2deg_yodels)
+- [fMRI pre-processing bash pipeline (Weber Lab)](https://github.com/WeberLab/LRTC_PLOSComplex)
+- [Quantum Transport acquisition and analysis (QDEV Lab)](https://github.com/folk-lab/IgorAcq)
+
+
+### To be made public...
+- Top 100 Healthy Foods and their price to 'goodness' ratio.
+- Analysis of gender distribution in a global venture capital firm.
+- App to determine a running route to maximise number of water fountain.
+- Facebook marketplace web scrape and analysis to determine a product's fair price.
+
 ---
 ---
 
