@@ -1,27 +1,35 @@
-##  How's it going, my name is Johann. 
+#  How's it going? My name is Johann :)
 
-### PAST
+## PAST
 I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my University years in **Vancouver, Canada** 🇨🇦, where I obtained my M.Sc. in Physics with a specialisation in Quantum Transport. Here is a repo for my [QDEV_masters_thesis](https://github.com/johann997/QDEV_masters_thesis) and a website link to the [QDEV lab](https://phas.ubc.ca/~qdev/?p=home) I worked in for 3 years. I worked on everything from coding in Pyton, IGOR, MATLAB and SQL 💻,  to designing electronic components ⚡, managing cryogenic ❄️ and high-vacuum equipment 🔩, to all steps of device fabrication in an ultra high clean room 🥼. These are the necessary steps to measure a fractional change in electrons charge :electron: required for our research.
 </br>
 
-### PRESENT
+## PRESENT
 Currently I am in **Berlin, Germany** 🇩🇪, working on Data Science and Data Engineering projects, and enjoying the centuries old history here. 
 
-### WHAT GETS ME EXCITED?
+## WHAT GETS ME EXCITED?
 I am curious about making sense of the world around us. From modelling optimal running routes in Vancouver, to web-scraping nutritional websites for cost-effective healthy foods and using Facebook marketplace data to determine competitive pricing, I love telling stories through data-driven decisions. :)
 
-### LANGUAGES
+## LANGUAGES
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r,php,latex,linux,bash,arduino)](https://skillicons.dev)
 
-### TOOLS
+## TOOLS
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,sklearn,grafana,docker,anaconda,vscode,postgres,wordpress)](https://skillicons.dev)
 
 
+---
+---
 
-### COURSES
+## COURSES
 
+### [Tableau for Data Scientists” by Matt Francis!](https://www.linkedin.com/learning/tableau-for-data-scientists) (LinkedIn)
+A 6 hour course going into Tableau in more detail. 
 
-#### [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
+[Link to LinkedIn Tableau Certificate](https://www.linkedin.com/learning/certificates/65a5b21716a5a27a44733369d1dafeb03bf80e39df4496b37931a1ed5c100006?trk=share_certificate)
+
+---
+
+### [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 A 6 month (@10 hours/week) Data Science professional certificate completed on 14th October 2024. 
 
 [Link to IBM Data Science Certificate](https://coursera.org/share/d5da6568a3f49f33759acb9225d6ac49) </br>
