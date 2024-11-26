@@ -1,5 +1,12 @@
 #  How's it going? My name is Johann :)
 
+
+## PERSONAL PROFILES
+- [LinkedIn profile](https://www.linkedin.com/in/johann-drayne/)
+- [Tableau profile](https://public.tableau.com/app/profile/johann.drayne/vizzes)
+- [Github profile](https://github.com/johann997)
+
+
 ## PAST
 I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my University years in **Vancouver, Canada** 🇨🇦, where I obtained my M.Sc. in Physics with a specialisation in Quantum Transport. Here is a repo for my [QDEV_masters_thesis](https://github.com/johann997/QDEV_masters_thesis) and a website link to the [QDEV lab](https://phas.ubc.ca/~qdev/?p=home) I worked in for 3 years. I worked on everything from coding in Pyton, IGOR, MATLAB and SQL 💻,  to designing electronic components ⚡, managing cryogenic ❄️ and high-vacuum equipment 🔩, to all steps of device fabrication in an ultra high clean room 🥼. These are the necessary steps to measure a fractional change in electrons charge :electron: required for our research.
 </br>
@@ -16,6 +23,17 @@ I am curious about making sense of the world around us. From modelling optimal r
 ## TOOLS
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,sklearn,grafana,docker,anaconda,vscode,postgres,wordpress)](https://skillicons.dev)
 
+
+---
+---
+
+### PERSONAL INTERESTS (in no particular order)
+- [History Maps](https://history-maps.com)
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
+- [The Pudding](https://pudding.cool)
+- [Good Books](https://www.goodbooks.io/top-100/non-fiction)
+- [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
+- [Vision of Humanity](https://www.visionofhumanity.org)
 
 ---
 ---
