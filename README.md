@@ -6,6 +6,7 @@
 - [LinkedIn profile](https://www.linkedin.com/in/johann-drayne/)
 - [Tableau profile](https://public.tableau.com/app/profile/johann.drayne/vizzes)
 - [Github profile](https://github.com/johann997)
+- [johann.drayne@gmail.com](mailto:johann.drayne@gmail.com?subject=Github%20Reachout%20:%20[Your%20Subject%20Here])
 
 
 ## PAST
