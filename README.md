@@ -59,6 +59,13 @@ I am curious about making sense of the world around us. From modelling optimal r
 
 ## COURSES
 
+### [Link to Quantum Computing Fundamentals](https://www.linkedin.com/learning/quantum-computing-fundamentals/learn-quantum-computing)
+A 5 hour course providing a foundation on quantum computing algorithms. 
+
+[Link to LinkedIn Quantum Computing Certificate](https://www.linkedin.com/learning/certificates/3a6cbcbbbf602f1a68b2762299684741bb0571b182fc0baccd0211f30f152940?trk=share_certificate)
+
+---
+
 ### [Tableau for Data Scientists” by Matt Francis!](https://www.linkedin.com/learning/tableau-for-data-scientists) (LinkedIn)
 A 6 hour course going into Tableau in more detail. 
 
