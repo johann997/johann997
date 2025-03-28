@@ -51,6 +51,7 @@ I am curious about making sense of the world around us. From modelling optimal r
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 - [The Pudding](https://pudding.cool)
 - [Good Books](https://www.goodbooks.io/top-100/non-fiction)
+- [Literary Hub : Bookmarks](https://bookmarks.reviews/category/non-fiction/)
 - [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
 - [Vision of Humanity](https://www.visionofhumanity.org)
 
