@@ -54,6 +54,7 @@ I am curious about making sense of the world around us. From modelling optimal r
 - [Literary Hub : Bookmarks](https://bookmarks.reviews/category/non-fiction/)
 - [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
 - [Vision of Humanity](https://www.visionofhumanity.org)
+- [Passport Index](https://www.passportindex.org/byRank.php)
 
 ---
 ---
