@@ -11,14 +11,16 @@
 
 
 ## PAST
-I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my University years in **Vancouver, Canada** 🇨🇦, where I obtained my M.Sc. in Physics with a specialisation in Quantum Transport. Here is a repo for my [Masters Thesis](https://github.com/johann997/QDEV_masters_thesis) and a website link to the [Quantum Devices Group](https://phas.ubc.ca/~qdev/?p=home) which I worked in for 3 years. I worked on everything from coding in Pyton, IGOR, MATLAB and SQL 💻,  to designing electronic components ⚡, managing cryogenic ❄️ and high-vacuum equipment 🔩, to all steps of device fabrication in an ultra high clean room 🥼. These are the necessary steps to measure a fractional change in electrons charge :electron: required for our research.
+I spent my early days in **Belfast, Northern Ireland** 🇮🇪 and my University years in **Vancouver, Canada** 🇨🇦, where I obtained my M.Sc. in Physics with a specialisation in Quantum Transport. Here is a repo for my [Masters Thesis](https://github.com/johann997/QDEV_masters_thesis) and a website link to the [Quantum Devices Group](https://phas.ubc.ca/~qdev/?p=home) which I worked in for 3 years. I worked on everything from coding in Pyton, IGOR, MATLAB and SQL 💻,  to designing electronic components ⚡, managing cryogenic ❄️ and high-vacuum equipment 🔩, to all steps of device fabrication in an ultra high clean room 🥼. These are the necessary steps to measure a fractional change in an electrons charge :electron: required for our research.
 </br>
 
 ## PRESENT
-Currently I am in **Berlin, Germany** 🇩🇪, transitioning into Quantum Computing, working on Data Science projects and enjoying the centuries old history here!
+Currently I am in **London, England** 💂🏼‍♂️, working as a Quantum Engineer, and loving the centuries old history here! If you want to collaborate on a weekend project or meet for a coffee, hit me up. :)
 
 ## WHAT GETS ME EXCITED?
 I am curious about making sense of the world around us. From modelling optimal running routes in Vancouver, to web-scraping nutritional websites for cost-effective healthy foods and using Facebook marketplace data to determine competitive pricing, I love telling stories through data-driven decisions. :)
+</br>
+I also love a good history or geography fun fact and getting out in the open air with a tasty black coffee... I'm easily pleased. 
 
 ## LANGUAGES
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,r,php,latex,linux,bash,arduino)](https://skillicons.dev)
