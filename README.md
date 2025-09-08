@@ -57,6 +57,7 @@ I also love a good history or geography fun fact and getting out in the open air
 - [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
 - [Vision of Humanity](https://www.visionofhumanity.org)
 - [Passport Index](https://www.passportindex.org/byRank.php)
+- [Atlas Obscura](https://www.atlasobscura.com)
 
 ---
 ---
